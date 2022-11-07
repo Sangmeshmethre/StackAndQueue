@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\bin\Debug\net6.0\DataStructerQueueUC2.exe
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\bin\Debug\net6.0\DataStructerQueueUC2.deps.json
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\bin\Debug\net6.0\DataStructerQueueUC2.runtimeconfig.json
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\bin\Debug\net6.0\DataStructerQueueUC2.dll
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\bin\Debug\net6.0\DataStructerQueueUC2.pdb
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.AssemblyInfo.cs
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.dll
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\refint\DataStructerQueueUC2.dll
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.pdb
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\DataStructerQueueUC2.genruntimeconfig.cache
+C:\LFP-195 Batch\Queue\UC2\DataStructerQueueUC2\DataStructerQueueUC2\obj\Debug\net6.0\ref\DataStructerQueueUC2.dll
