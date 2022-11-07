@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\bin\Debug\net6.0\DataStructerQueue1.exe
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\bin\Debug\net6.0\DataStructerQueue1.deps.json
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\bin\Debug\net6.0\DataStructerQueue1.runtimeconfig.json
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\bin\Debug\net6.0\DataStructerQueue1.dll
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\bin\Debug\net6.0\DataStructerQueue1.pdb
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.AssemblyInfo.cs
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.dll
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\refint\DataStructerQueue1.dll
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.pdb
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\DataStructerQueue1.genruntimeconfig.cache
+C:\LFP-195 Batch\Queue\UC1\DataStructerQueue1\DataStructerQueue1\obj\Debug\net6.0\ref\DataStructerQueue1.dll
