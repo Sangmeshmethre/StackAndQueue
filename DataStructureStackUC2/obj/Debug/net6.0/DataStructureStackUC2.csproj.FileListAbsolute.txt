@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\bin\Debug\net6.0\DataStructureStackUC2.exe
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\bin\Debug\net6.0\DataStructureStackUC2.deps.json
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\bin\Debug\net6.0\DataStructureStackUC2.runtimeconfig.json
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\bin\Debug\net6.0\DataStructureStackUC2.dll
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\bin\Debug\net6.0\DataStructureStackUC2.pdb
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.AssemblyInfo.cs
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.dll
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\refint\DataStructureStackUC2.dll
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.pdb
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\DataStructureStackUC2.genruntimeconfig.cache
+C:\LFP-195 Batch\Stack\UC2\DataStructureStackUC2\DataStructureStackUC2\obj\Debug\net6.0\ref\DataStructureStackUC2.dll
